@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*..pyc
+
+# Vector and model stores
+vector_store/
+local_model/
+
+# Temporary files
+temp_docs/
+
+# VS Code settings
+.vscode/
