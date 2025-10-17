@@ -38,7 +38,8 @@ Clone this repository to your local machine.
 ```bash
 git clone https://github.com/Your-GitHub-Username/Unthinkable.git
 cd Unthinkable
-2. Set Up the Backend
+
+###2. Set Up the Backend
 ---------------------------------
 All these commands should be run from the root Unthinkable directory.
 
@@ -126,3 +127,4 @@ Request Body:
 
 Example curl command:
 curl -X POST -H "Content-Type: application/json" -d "{\"question\": \"What is light?\"}" http://127.0.0.1:8000/query
+
